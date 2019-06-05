@@ -89,6 +89,12 @@ hr {
     color: #fff5e0;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    float: right 50%;
+}
+
+.bottom-container img {
+    width: 3rem;
+    display: inline-block;
 }
 
 .underline {
